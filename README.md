@@ -12,7 +12,7 @@ Python code, including Jupyter notebook, is prepared for export from XML/TEI int
 
 Samples of NIF files are in NIF subfolder.
 
-## impoved version March 2023
+## Impoved version March 2023
 
 In March 2023 the approach was improved, 9 languages are included. New jupiter notebook is available in folder notebook-9-lngs and data are in http://llod.jerteh.rs/ELTEC/. Related paper ...
 
