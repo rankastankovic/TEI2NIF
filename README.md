@@ -9,4 +9,10 @@ Metadata for selected novels are linked with already available in Wikidata, name
 The NLP Interchange Format (NIF), designed to facilitate the integration of NLP tools in knowledge extraction pipelines, provides support for part-of-speech tagging, lemmatization and entity annotation, enabling ELTeC level-2 layers transformation. 
 Python code, including Jupyter notebook, is prepared for export from XML/TEI into NIF, available in colab subfolder. For Wikidata management mkwikidata (https://pypi.org/project/mkwikidata/) library was used and for working with RDF  rdflib (https://rdflib.readthedocs.io/en/stable/index.html).
 
+
 Samples of NIF files are in NIF subfolder.
+
+## impoved version March 2023
+
+In March 2023 the approach was improved, 9 languages are included. New jupiter notebook is available in folder notebook-9-lngs and data are in http://llod.jerteh.rs/ELTEC/. Related paper ...
+
